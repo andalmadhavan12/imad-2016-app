@@ -28,6 +28,9 @@ form li {
 list-style: none;  
 margin-bottom: 5px;  
 }  
+.center {
+    text-align: center;
+}
   
 form ul li label{  
 float: left;  
