@@ -1,36 +1,10 @@
-body {
-    font-family: sans-serif;
-    background-color: pink;
-    margin-top: 75px;
-}
-
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
-}
-
-.h1 {  
-
-margin-left: 100px;  
+h1 {  
+margin-left: 70px;  
 }  
 form li {  
 list-style: none;  
-margin-bottom: 2px;  
+margin-bottom: 5px;  
 }  
-.center {
-    text-align: center;
-}
   
 form ul li label{  
 float: left;  
@@ -40,13 +14,11 @@ text-align: right;
 margin-right: 10px;  
 font-family:Verdana, Arial, Helvetica, sans-serif;  
 font-size:14px; 
-
-
 }  
   
 form ul li input, select, span {  
 float: left;  
-margin-bottom: 15px;  
+margin-bottom: 10px;  
 }  
   
 form textarea {  
@@ -55,11 +27,13 @@ width: 350px;
 height: 150px;  
 }  
   
-
+[type="submit"] {  
+clear: left;  
+margin: 20px 0 0 230px;  
+font-size:18px  
+}  
   
-.p {  
+p {  
 margin-left: 70px;  
 font-weight: bold;  
 } 
-
-
