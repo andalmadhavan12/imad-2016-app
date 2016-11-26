@@ -46,8 +46,8 @@ margin-bottom: 10px;
   
 form textarea {  
 float: left;  
-width: 350px;  
-height: 150px;  
+width: 250px;  
+height: 100px;  
 }  
   
 [type="submit"] {  
